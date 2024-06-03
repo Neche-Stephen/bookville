@@ -14,7 +14,7 @@
 	<name>bookville</name>
 	<description>BooksVille - Buy, Read, and Download Books Online</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
