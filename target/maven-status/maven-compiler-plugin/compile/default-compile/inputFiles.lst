@@ -1,0 +1,15 @@
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/BookvilleApplication.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/config/CorsConfig.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/config/JWTAuthFilter.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/config/SecurityConfig.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/controller/BookController.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/controller/UserManagementController.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/dto/ReqRes.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/model/Book.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/model/OurUsers.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/repository/BookRepository.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/repository/UsersRepo.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/service/BookService.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/service/JWTUtils.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/service/OurUserDetailsService.java
+/Users/macbookair/Desktop/Booksville/bookville/src/main/java/com/bookville/service/UsersManagementService.java
